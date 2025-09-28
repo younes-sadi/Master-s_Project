@@ -1,0 +1,557 @@
+{"split": "train", "id": [3, 0], "title": "Pythagoras's Theorem", "expr": "a + b = c", "source": "formula"}
+{"split": "train", "id": [30, 0], "title": "1+2+...+n+(n-1)+...+1 = n^2", "expr": "cdots + 1 = n", "source": "text"}
+{"split": "train", "id": [30, 0], "title": "1+2+...+n+(n-1)+...+1 = n^2", "expr": "+ *s + 1 = n", "source": "formula"}
+{"split": "train", "id": [62, 0], "title": "Solution to Quadratic Equation", "expr": "2 + b x + c = 0", "source": "text"}
+{"split": "train", "id": [62, 0], "title": "Solution to Quadratic Equation", "expr": "a x + b x + c = 0", "source": "formula"}
+{"split": "train", "id": [122, 0], "title": "Symmetric Difference is Commutative", "expr": "S * T = T * S", "source": "text"}
+{"split": "train", "id": [124, 0], "title": "Symmetric Difference of Equal Sets", "expr": "iff S * T =", "source": "text"}
+{"split": "train", "id": [139, 0], "title": "Symmetric Difference of Complements", "expr": "complement T = S * T", "source": "text"}
+{"split": "train", "id": [141, 0], "title": "Symmetric Difference with Self is Empty Set", "expr": "S * S =", "source": "text"}
+{"split": "train", "id": [144, 0], "title": "Cartesian Product is Empty iff Factor is Empty", "expr": "S * T =", "source": "formula"}
+{"split": "train", "id": [148, 0], "title": "Cartesian Product Distributes over Union", "expr": "* A =", "source": "formula"}
+{"split": "train", "id": [154, 0], "title": "Trivial Relation is Equivalence", "expr": "RR = S * S", "source": "formula"}
+{"split": "train", "id": [159, 0], "title": "Image is Subset of Codomain", "expr": "RR = S * T", "source": "formula"}
+{"split": "train", "id": [316, 0], "title": "Equality of Algebraic Structures", "expr": "circ b = a * b", "source": "text"}
+{"split": "train", "id": [358, 0], "title": "Trivial Relation is Universally Congruent", "expr": "mathcal R = S * S", "source": "formula"}
+{"split": "train", "id": [424, 0], "title": "Group Example: x inv c y", "expr": "x * y = x", "source": "text"}
+{"split": "train", "id": [525, 0], "title": "Quotient Ring is Ring/Quotient Ring Product is Well-Defined", "expr": "1 + J = x", "source": "text"}
+{"split": "train", "id": [525, 0], "title": "Quotient Ring is Ring/Quotient Ring Product is Well-Defined", "expr": "1 + J = y", "source": "text"}
+{"split": "train", "id": [529, 0], "title": "Quotient Epimorphism is Epimorphism/Ring", "expr": "phi x = x + J", "source": "text"}
+{"split": "train", "id": [536, 0], "title": "Preimage of Image of Subring under Ring Homomorphism", "expr": "= J + K", "source": "text"}
+{"split": "train", "id": [567, 0], "title": "Cardinality Less One", "expr": "rvert = n + 1", "source": "text"}
+{"split": "train", "id": [575, 0], "title": "Isomorphism to Closed Interval", "expr": "right) = x + m + 1", "source": "text"}
+{"split": "train", "id": [585, 0], "title": "General Operation from Binary Operation", "expr": "k = n + 1", "source": "text"}
+{"split": "train", "id": [601, 0], "title": "Integer Multiplication is Commutative", "expr": "x * y = y * x", "source": "formula"}
+{"split": "train", "id": [603, 0], "title": "Integer Multiplication Distributes over Addition", "expr": "* x =", "source": "formula"}
+{"split": "train", "id": [605, 0], "title": "Integer Multiplication Identity is One", "expr": "a * 1 = a", "source": "formula"}
+{"split": "train", "id": [607, 0], "title": "Ring of Integers has no Zero Divisors", "expr": "x * y = 0", "source": "formula"}
+{"split": "train", "id": [634, 0], "title": "Division Theorem", "expr": "a = q b + r", "source": "text"}
+{"split": "train", "id": [635, 0], "title": "Odd Integer 2n + 1", "expr": "2 n + 1 = m", "source": "text"}
+{"split": "train", "id": [646, 0], "title": "Set of Integer Combinations equals Set of Multiples of GCD", "expr": "c = x a + y b", "source": "text"}
+{"split": "train", "id": [648, 0], "title": "Integer Combination of Coprime Integers", "expr": "m a + n b = 1", "source": "text"}
+{"split": "train", "id": [663, 0], "title": "Modulo Addition is Commutative", "expr": "pmod m = y + x", "source": "text"}
+{"split": "train", "id": [667, 0], "title": "Modulo Multiplication is Associative", "expr": "m z = x *", "source": "formula"}
+{"split": "train", "id": [717, 0], "title": "Real Number is Floor plus Difference", "expr": "x = n + t", "source": "text"}
+{"split": "train", "id": [728, 0], "title": "Powers of Ring Elements", "expr": "cdot x = x + x +", "source": "text"}
+{"split": "train", "id": [728, 0], "title": "Powers of Ring Elements", "expr": "n * x = x + x + *s", "source": "formula"}
+{"split": "train", "id": [728, 0], "title": "Powers of Ring Elements", "expr": "n * x = n *", "source": "formula"}
+{"split": "train", "id": [728, 0], "title": "Powers of Ring Elements", "expr": "circ x = n *", "source": "formula"}
+{"split": "train", "id": [887, 0], "title": "Group Action determines Bijection", "expr": "x = g * x", "source": "text"}
+{"split": "train", "id": [895, 0], "title": "Group Action on Sets with k Elements", "expr": "g * S = g S", "source": "text"}
+{"split": "train", "id": [1077, 0], "title": "Characteristic of Ordered Integral Domain is Zero", "expr": "right) = n * 1", "source": "formula"}
+{"split": "train", "id": [1081, 0], "title": "Polynomials Closed under Ring Product", "expr": "p + q = k p", "source": "text"}
+{"split": "train", "id": [1081, 0], "title": "Polynomials Closed under Ring Product", "expr": "p + q = k", "source": "formula"}
+{"split": "train", "id": [1100, 0], "title": "Complex Addition is Commutative", "expr": "z + w = w + z", "source": "text"}
+{"split": "train", "id": [1115, 0], "title": "Value of Adjugate of Determinant", "expr": "* = D", "source": "text"}
+{"split": "train", "id": [1123, 0], "title": "Modulus in Terms of Conjugate", "expr": "z = a + i b", "source": "text"}
+{"split": "train", "id": [1178, 0], "title": "Euler's Identity", "expr": "+ 1 = 0", "source": "text"}
+{"split": "train", "id": [1178, 0], "title": "Euler's Identity", "expr": "e + 1 = 0", "source": "formula"}
+{"split": "train", "id": [1195, 0], "title": "Stewart's Theorem", "expr": "a * AP + b * PB = c", "source": "formula"}
+{"split": "train", "id": [1201, 0], "title": "Intersecting Chord Theorem", "expr": "AE * EC = DE * EB", "source": "formula"}
+{"split": "train", "id": [1307, 0], "title": "Sum of Reciprocals of Primes is Divergent", "expr": "= +", "source": "text"}
+{"split": "train", "id": [1336, 0], "title": "Power Series Expansion for Exponential Function", "expr": "r = 1 + x +", "source": "text"}
+{"split": "train", "id": [1493, 0], "title": "Inverse Completion Less Zero of Integral Domain is Closed", "expr": "* = K", "source": "text"}
+{"split": "train", "id": [1505, 0], "title": "Real Addition is Commutative", "expr": "x + y = y + x", "source": "text"}
+{"split": "train", "id": [1512, 0], "title": "Real Multiplication Distributes over Addition", "expr": "= x * y + x * z", "source": "formula"}
+{"split": "train", "id": [1512, 0], "title": "Real Multiplication Distributes over Addition", "expr": "* x = y * x + z * x", "source": "formula"}
+{"split": "train", "id": [1513, 0], "title": "Cardano's Formula", "expr": "2 + c x + d = 0", "source": "text"}
+{"split": "train", "id": [1513, 0], "title": "Cardano's Formula", "expr": "1 = S + T", "source": "text"}
+{"split": "train", "id": [1513, 0], "title": "Cardano's Formula", "expr": "a x + b x + c x + d = 0", "source": "formula"}
+{"split": "train", "id": [1514, 0], "title": "Ferrari's Method", "expr": "2 + d x + e = 0", "source": "text"}
+{"split": "train", "id": [1514, 0], "title": "Ferrari's Method", "expr": "a x + b x + c x + d x + e = 0", "source": "formula"}
+{"split": "train", "id": [1538, 0], "title": "Sigma Function of Prime Number", "expr": "sigma n = n + 1", "source": "text"}
+{"split": "train", "id": [1540, 0], "title": "Tau of Power of Prime", "expr": "right) = k + 1", "source": "text"}
+{"split": "train", "id": [1573, 0], "title": "Solution of Linear Diophantine Equation", "expr": "a x + b y = c", "source": "text"}
+{"split": "train", "id": [1622, 0], "title": "Parity of Smaller Elements of Primitive Pythagorean Triple", "expr": "x + y = z", "source": "formula"}
+{"split": "train", "id": [1632, 0], "title": "Odd Square is Eight Triangles Plus One", "expr": "n = 8 m + 1", "source": "text"}
+{"split": "train", "id": [1659, 0], "title": "Normalized URM Program", "expr": "= l + u", "source": "text"}
+{"split": "train", "id": [1667, 0], "title": "Addition is Primitive Recursive", "expr": "= n + m", "source": "text"}
+{"split": "train", "id": [1669, 0], "title": "Multiplication is Primitive Recursive", "expr": "= n * m", "source": "formula"}
+{"split": "train", "id": [1673, 0], "title": "Bézout's Lemma", "expr": "a x + b y =", "source": "text"}
+{"split": "train", "id": [1677, 0], "title": "Sum of Maximum and Minimum", "expr": "a + b =", "source": "text"}
+{"split": "train", "id": [1682, 0], "title": "Set of Non-Zero Natural Numbers is Primitive Recursive", "expr": "* =", "source": "text"}
+{"split": "train", "id": [1772, 0], "title": "Product of the Incidence Matrix of a BIBD with its Transpose", "expr": "intercal * A =", "source": "formula"}
+{"split": "train", "id": [1818, 0], "title": "Solution to First Order Initial Value Problem", "expr": "displaystyle y = b +", "source": "text"}
+{"split": "train", "id": [1883, 0], "title": "Condition for Complete Bipartite Graph to be Semi-Hamiltonian", "expr": "m = n + 1", "source": "text"}
+{"split": "train", "id": [1883, 0], "title": "Condition for Complete Bipartite Graph to be Semi-Hamiltonian", "expr": "n = m + 1", "source": "text"}
+{"split": "train", "id": [1913, 0], "title": "Set Difference as Symmetric Difference with Intersection", "expr": "setminus T = S *", "source": "text"}
+{"split": "train", "id": [1939, 0], "title": "Square of Sum", "expr": "= x + 2 x y + y", "source": "formula"}
+{"split": "train", "id": [2046, 0], "title": "Tschirnhaus Transformation", "expr": "y = x +", "source": "text"}
+{"split": "train", "id": [2083, 0], "title": "Inclusion-Exclusion Principle", "expr": "ro = +", "source": "text"}
+{"split": "train", "id": [2118, 0], "title": "Probability Generating Function of Bernoulli Distribution", "expr": "right) = q + ps", "source": "text"}
+{"split": "train", "id": [2133, 0], "title": "Derivatives of Function of a x + b", "expr": "z = a x + b", "source": "text"}
+{"split": "train", "id": [2146, 0], "title": "PGF of Sum of Independent Discrete Random Variables", "expr": "Z = X + Y", "source": "text"}
+{"split": "train", "id": [2156, 0], "title": "Euler Polyhedron Formula", "expr": "E + F = 2", "source": "text"}
+{"split": "train", "id": [2271, 0], "title": "Ordered Sum of Tosets is Totally Ordered Set", "expr": "S + T =", "source": "text"}
+{"split": "train", "id": [2330, 0], "title": "Law of Mass Action", "expr": "a + b = 1", "source": "text"}
+{"split": "train", "id": [2358, 0], "title": "Vieta's Formula for Pi", "expr": "pi = 2 *", "source": "formula"}
+{"split": "train", "id": [2371, 0], "title": "Natural Number Addition is Commutative", "expr": "m + n = n + m", "source": "text"}
+{"split": "train", "id": [2377, 0], "title": "Natural Number Multiplication is Associative", "expr": "* z = x *", "source": "formula"}
+{"split": "train", "id": [2378, 0], "title": "Natural Number Multiplication Distributes over Addition", "expr": "* z =", "source": "formula"}
+{"split": "train", "id": [2379, 0], "title": "Multiplication of Numbers Distributes over Addition", "expr": "= m n + m p", "source": "text"}
+{"split": "train", "id": [2379, 0], "title": "Multiplication of Numbers Distributes over Addition", "expr": "p = m p + n p", "source": "text"}
+{"split": "train", "id": [2392, 0], "title": "Count of Binary Operations with Identity", "expr": "N = n + 1", "source": "formula"}
+{"split": "train", "id": [2396, 0], "title": "Element to Power of Remainder", "expr": "n = q k + r", "source": "text"}
+{"split": "train", "id": [2427, 0], "title": "Subset Product Action is Group Action", "expr": "g * S = g", "source": "text"}
+{"split": "train", "id": [2429, 0], "title": "Abelian Group Factored by Prime", "expr": "G = H * K", "source": "formula"}
+{"split": "train", "id": [2438, 0], "title": "Identity Element of Natural Number Addition is Zero", "expr": "0 + n = n", "source": "text"}
+{"split": "train", "id": [2457, 0], "title": "Squares of Linear Combination of Sine and Cosine", "expr": "right) = a + b", "source": "formula"}
+{"split": "train", "id": [2487, 0], "title": "Index Laws/Sum of Indices/Monoid", "expr": "n = x + 1", "source": "text"}
+{"split": "train", "id": [2514, 0], "title": "Homomorphism from Integers into Ring with Unity", "expr": "n = n * a", "source": "formula"}
+{"split": "train", "id": [2514, 0], "title": "Homomorphism from Integers into Ring with Unity", "expr": "implies n * a = 0", "source": "formula"}
+{"split": "train", "id": [2534, 0], "title": "Quaternion Multiplication", "expr": "o = +", "source": "text"}
+{"split": "train", "id": [2567, 0], "title": "Integer Addition Identity is Zero", "expr": "a + 0 = a", "source": "text"}
+{"split": "train", "id": [2574, 0], "title": "Inverse for Complex Addition", "expr": "z = x + i y", "source": "text"}
+{"split": "train", "id": [2581, 0], "title": "Real Addition Identity is Zero", "expr": "x + 0 = x", "source": "text"}
+{"split": "train", "id": [2586, 0], "title": "Inverse for Complex Multiplication", "expr": "dfrac 1 z = 1 + 0 i", "source": "text"}
+{"split": "train", "id": [2688, 0], "title": "Characteristic times Ring Element is Ring Zero", "expr": "n * a = 0", "source": "formula"}
+{"split": "train", "id": [2710, 0], "title": "Mapping on Integers a plus b root 2 to Conjugate is Automorphism", "expr": "forall x = a + b", "source": "text"}
+{"split": "train", "id": [2724, 0], "title": "Elements of Euclidean Domain have Greatest Common Divisor", "expr": "s a + t b = d", "source": "text"}
+{"split": "train", "id": [2725, 0], "title": "Associates in Ring of Polynomial Forms over Field", "expr": "map d X = c *", "source": "formula"}
+{"split": "train", "id": [2917, 0], "title": "Increasing Sequence in Ordered Set Terminates iff Maximal Element", "expr": "= *s", "source": "formula"}
+{"split": "train", "id": [2965, 0], "title": "Metric Defines Norm iff it Preserves Linear Structure", "expr": "y+z) = d(x", "source": "text"}
+{"split": "train", "id": [3503, 0], "title": "Tangent Secant Theorem", "expr": "DB = AD * DC", "source": "formula"}
+{"split": "train", "id": [3504, 0], "title": "Identity Element of Natural Number Multiplication is One", "expr": "n * 1 = n", "source": "formula"}
+{"split": "train", "id": [3505, 0], "title": "Secant Secant Theorem", "expr": "CA * CD = CB * CE", "source": "formula"}
+{"split": "train", "id": [3523, 0], "title": "Multiplication of Numbers is Left Distributive over Addition", "expr": "m a + m b + m c + *s = m", "source": "formula"}
+{"split": "train", "id": [3524, 0], "title": "Multiplication of Numbers is Right Distributive over Addition", "expr": "ma + na + pa + *s =", "source": "formula"}
+{"split": "train", "id": [3534, 0], "title": "Sum of Components of Equal Ratios", "expr": "3 = *s", "source": "formula"}
+{"split": "train", "id": [3691, 0], "title": "Field has no Proper Zero Divisors", "expr": "a * b = 0", "source": "formula"}
+{"split": "train", "id": [3695, 0], "title": "Integral Multiple Distributes over Ring Addition", "expr": "* a =", "source": "formula"}
+{"split": "train", "id": [3696, 0], "title": "Integral Multiple of Integral Multiple", "expr": "* a = m *", "source": "formula"}
+{"split": "train", "id": [3723, 0], "title": "Scalar Product with Product", "expr": "= n *", "source": "formula"}
+{"split": "train", "id": [3743, 0], "title": "Combination Theorem for Sequences/Real/Sum Rule", "expr": "= l + m", "source": "text"}
+{"split": "train", "id": [3974, 0], "title": "Infinite Limit Theorem", "expr": "map f x = +", "source": "text"}
+{"split": "train", "id": [4070, 0], "title": "Product of Sums of Four Squares/Corollary", "expr": "right) = w + x + y + z", "source": "formula"}
+{"split": "train", "id": [4171, 0], "title": "Natural Number Addition Commutativity with Successor", "expr": "+ + n =", "source": "text"}
+{"split": "train", "id": [4177, 0], "title": "Zero is Zero Element for Natural Number Multiplication", "expr": "0 * n = 0", "source": "formula"}
+{"split": "train", "id": [4193, 0], "title": "Relation is Connected iff Union with Inverse and Diagonal is Trivial Relation", "expr": "S = S * S", "source": "formula"}
+{"split": "train", "id": [4237, 0], "title": "Equality of Cartesian Products", "expr": "A * B = C * D", "source": "formula"}
+{"split": "train", "id": [4238, 0], "title": "Adjoining is Linear", "expr": "* = A", "source": "text"}
+{"split": "train", "id": [4239, 0], "title": "Adjoint of Composition", "expr": "* = B", "source": "text"}
+{"split": "train", "id": [4251, 0], "title": "Isometry iff Adjoint is Left-Inverse", "expr": "*A = I", "source": "text"}
+{"split": "train", "id": [4280, 0], "title": "Limit at Infinity of Real Identity Function", "expr": "x = +", "source": "text"}
+{"split": "train", "id": [4281, 0], "title": "Push Theorem", "expr": "map g x = +", "source": "text"}
+{"split": "train", "id": [4407, 0], "title": "General Associativity Theorem/Formulation 1", "expr": "s = p+n", "source": "text"}
+{"split": "train", "id": [4456, 0], "title": "Jensen's Inequality (Real Analysis)", "expr": "2 = *s", "source": "formula"}
+{"split": "train", "id": [4486, 0], "title": "Group of Units of Field", "expr": "* = k", "source": "formula"}
+{"split": "train", "id": [4657, 0], "title": "Extended Real Addition is Commutative", "expr": "y = y +", "source": "text"}
+{"split": "train", "id": [4659, 0], "title": "Extended Real Multiplication is Commutative", "expr": "y = y *", "source": "formula"}
+{"split": "train", "id": [4784, 0], "title": "Homomorphism of Powers/Naturally Ordered Semigroup", "expr": "* = S", "source": "text"}
+{"split": "train", "id": [4868, 0], "title": "Quotient Ring is Ring/Quotient Ring Addition is Well-Defined", "expr": "+ J =", "source": "text"}
+{"split": "train", "id": [4888, 0], "title": "Preimage of Image of Ideal under Ring Homomorphism", "expr": "right) = J + K", "source": "text"}
+{"split": "train", "id": [5038, 0], "title": "Right Distributive Law for Natural Numbers", "expr": "* n =", "source": "formula"}
+{"split": "train", "id": [5067, 0], "title": "Natural Number Commutes with 1 under Addition", "expr": "n + 1 = 1 + n", "source": "text"}
+{"split": "train", "id": [5079, 0], "title": "Natural Number Multiplication is Cancellable", "expr": "x * z = y * z", "source": "formula"}
+{"split": "train", "id": [5079, 0], "title": "Natural Number Multiplication is Cancellable", "expr": "x * y = x * z", "source": "formula"}
+{"split": "train", "id": [5082, 0], "title": "Successor to Natural Number", "expr": "a + c = b", "source": "text"}
+{"split": "train", "id": [5089, 0], "title": "Successor Set of Transitive Set is Transitive", "expr": "+ = S", "source": "text"}
+{"split": "train", "id": [5234, 0], "title": "Group Induces B-Algebra", "expr": "a * b = a", "source": "text"}
+{"split": "train", "id": [5292, 0], "title": "Existence-Uniqueness Theorem for First-Order Differential Equation", "expr": "+ P(x)y = Q(x)", "source": "text"}
+{"split": "train", "id": [5292, 0], "title": "Existence-Uniqueness Theorem for First-Order Differential Equation", "expr": "displaystyle f(x) = be + e", "source": "formula"}
+{"split": "train", "id": [5343, 0], "title": "Equality of Successors", "expr": "+ = y", "source": "text"}
+{"split": "train", "id": [5345, 0], "title": "Finite Ordinal Plus Transfinite Ordinal", "expr": "n + x = x", "source": "text"}
+{"split": "train", "id": [5357, 0], "title": "Ordinal Addition is Associative", "expr": "right) + z = x +", "source": "text"}
+{"split": "train", "id": [5369, 0], "title": "Single Instruction URM Programs/Successor Function", "expr": "Succ n = n + 1", "source": "text"}
+{"split": "train", "id": [5408, 0], "title": "Ordinal Addition by One", "expr": "x + 1 = x", "source": "text"}
+{"split": "train", "id": [5508, 0], "title": "Finite Ordinal Times Ordinal", "expr": "right) = x +", "source": "text"}
+{"split": "train", "id": [5540, 0], "title": "Ordinal Exponentiation of Terms", "expr": "z = x * n", "source": "formula"}
+{"split": "train", "id": [5555, 0], "title": "Stabilizer of Element under Conjugacy Action is Centralizer", "expr": "g * h = g", "source": "text"}
+{"split": "train", "id": [5557, 0], "title": "Stabilizer of Coset Action on Set of Subgroups", "expr": "g * H = g", "source": "text"}
+{"split": "train", "id": [5772, 0], "title": "Product of Complex Number with Conjugate", "expr": "overline z = a + b", "source": "formula"}
+{"split": "train", "id": [5844, 0], "title": "Pointwise Addition is Associative", "expr": "+ h = f +", "source": "text"}
+{"split": "train", "id": [5846, 0], "title": "Pointwise Addition is Commutative", "expr": "f + g = g + f", "source": "text"}
+{"split": "train", "id": [5847, 0], "title": "Pointwise Multiplication is Associative", "expr": "* h = f *", "source": "formula"}
+{"split": "train", "id": [5848, 0], "title": "Pointwise Multiplication is Commutative", "expr": "f * g = g * f", "source": "formula"}
+{"split": "train", "id": [5853, 0], "title": "Pointwise Multiplication on Real-Valued Functions is Associative", "expr": "right) * h = f *", "source": "formula"}
+{"split": "train", "id": [5870, 0], "title": "Properties of Affine Spaces", "expr": "quad p + 0 = p", "source": "text"}
+{"split": "train", "id": [5870, 0], "title": "Properties of Affine Spaces", "expr": "quad p + u = p + v", "source": "text"}
+{"split": "train", "id": [5928, 0], "title": "Open Sets of Double Pointed Topology", "expr": "X = U * D", "source": "formula"}
+{"split": "train", "id": [5929, 0], "title": "Open Sets of Double Pointed Topology/Corollary", "expr": "X = C * D", "source": "formula"}
+{"split": "train", "id": [6066, 0], "title": "Primitive of Constant", "expr": "rd x = c x + C", "source": "text"}
+{"split": "train", "id": [6438, 0], "title": "Cauchy-Riemann Equations", "expr": "x + i y = z", "source": "text"}
+{"split": "train", "id": [7278, 0], "title": "Equivalence of Definitions of Transitive Closure (Relation Theory)/Union of Compositions is Smallest", "expr": "+ =", "source": "text"}
+{"split": "train", "id": [7658, 0], "title": "Law of Cosines/Right Triangle", "expr": "c = a + b", "source": "formula"}
+{"split": "train", "id": [7783, 0], "title": "Perimeter of Triangle", "expr": "P = a + b + c", "source": "text"}
+{"split": "train", "id": [7785, 0], "title": "Perimeter of Trapezoid", "expr": "P = a + b + h", "source": "text"}
+{"split": "train", "id": [7860, 0], "title": "Half Angle Formulas/Tangent", "expr": "r = +", "source": "text"}
+{"split": "train", "id": [7945, 0], "title": "Tangent of 75 Degrees", "expr": "= 2 +", "source": "text"}
+{"split": "train", "id": [8212, 0], "title": "Multiple of Ring Product", "expr": "circ y = n *", "source": "formula"}
+{"split": "train", "id": [8282, 0], "title": "Field with 4 Elements has only Order 2 Elements", "expr": "a + a = 0", "source": "text"}
+{"split": "train", "id": [8358, 0], "title": "Group Action of Symmetric Group", "expr": "pi * n =", "source": "text"}
+{"split": "train", "id": [8360, 0], "title": "Trivial Group Action is Group Action", "expr": "g * s = s", "source": "text"}
+{"split": "train", "id": [8362, 0], "title": "Right Regular Representation by Inverse is Group Action", "expr": "g * h =", "source": "text"}
+{"split": "train", "id": [8369, 0], "title": "Group Action on Subgroup by Right Regular Representation", "expr": "h * g =", "source": "text"}
+{"split": "train", "id": [8706, 0], "title": "Z/(m)-Module Associated with Ring of Characteristic m", "expr": "circ x = a * x", "source": "formula"}
+{"split": "train", "id": [8723, 0], "title": "Half Angle Formulas/Hyperbolic Cosine", "expr": "dfrac x 2 = +", "source": "text"}
+{"split": "train", "id": [8824, 0], "title": "Equation of Unit Circle", "expr": "x + y = 1", "source": "formula"}
+{"split": "train", "id": [9074, 0], "title": "Power Series Expansion for Real Arcsine Function", "expr": "r = x +", "source": "text"}
+{"split": "train", "id": [9103, 0], "title": "Gamma Function of One Half", "expr": "= 1 *p 77245 38509 05516 02729 81674 83341 14518 27975", "source": "formula"}
+{"split": "train", "id": [9235, 0], "title": "Primitive of Function of a x + b", "expr": "u = a x + b", "source": "text"}
+{"split": "train", "id": [9515, 0], "title": "Completing the Square", "expr": "2 + b x + c =", "source": "text"}
+{"split": "train", "id": [9515, 0], "title": "Completing the Square", "expr": "a x + b x + c =", "source": "formula"}
+{"split": "train", "id": [9786, 0], "title": "Primitive of Tangent of a x over x", "expr": "mathrm d x = a x +", "source": "text"}
+{"split": "train", "id": [10479, 0], "title": "Integer Addition is Cancellable", "expr": "x + z = y + z", "source": "text"}
+{"split": "train", "id": [10659, 0], "title": "Mapping from Cartesian Product under Chebyshev Distance to Real Number Line is Continuous", "expr": "AA = A * A", "source": "formula"}
+{"split": "train", "id": [10807, 0], "title": "Parity Addition is Associative", "expr": "+ c = a +", "source": "text"}
+{"split": "train", "id": [10810, 0], "title": "Parity Multiplication is Commutative", "expr": "a * b = b * a", "source": "formula"}
+{"split": "train", "id": [10888, 0], "title": "Principle of Recursive Definition", "expr": "x = n + 1", "source": "text"}
+{"split": "train", "id": [10893, 0], "title": "Real Zero is Zero Element", "expr": "0 * x = 0", "source": "formula"}
+{"split": "train", "id": [10912, 0], "title": "Product of Real Number with Quotient", "expr": "y = a *", "source": "formula"}
+{"split": "train", "id": [11205, 0], "title": "Addition on 1-Based Natural Numbers is Cancellable", "expr": "a + c = b + c", "source": "text"}
+{"split": "train", "id": [11205, 0], "title": "Addition on 1-Based Natural Numbers is Cancellable", "expr": "a + b = a + c", "source": "text"}
+{"split": "train", "id": [11207, 0], "title": "Multiplication on 1-Based Natural Numbers is Cancellable", "expr": "a * c = b * c", "source": "formula"}
+{"split": "train", "id": [11207, 0], "title": "Multiplication on 1-Based Natural Numbers is Cancellable", "expr": "a * b = a * c", "source": "formula"}
+{"split": "train", "id": [11262, 0], "title": "Ptolemy's Theorem", "expr": "AB * CD + AD * BC = AC * BD", "source": "formula"}
+{"split": "train", "id": [11271, 0], "title": "Equation of Circle/Parametric", "expr": "x = a + R", "source": "text"}
+{"split": "train", "id": [11271, 0], "title": "Equation of Circle/Parametric", "expr": "y = b + R", "source": "text"}
+{"split": "train", "id": [11273, 0], "title": "Equation of Circle/Cartesian/Corollary 1", "expr": "+ B x + C y + D = 0", "source": "text"}
+{"split": "train", "id": [11274, 0], "title": "Equation of Circle/Cartesian/Corollary 2", "expr": "x + y = R", "source": "formula"}
+{"split": "train", "id": [11277, 0], "title": "Equation of Sphere/Rectangular Coordinates/Corollary", "expr": "x + y + z = R", "source": "formula"}
+{"split": "train", "id": [11278, 0], "title": "Equation of Conic Section", "expr": "2 + d x + e y + f = 0", "source": "text"}
+{"split": "train", "id": [11278, 0], "title": "Equation of Conic Section", "expr": "a x + b x y + c y + d x + e y + f = 0", "source": "formula"}
+{"split": "train", "id": [11279, 0], "title": "Graph of Quadratic describes Parabola", "expr": "y = a x + b x + c", "source": "formula"}
+{"split": "train", "id": [11290, 0], "title": "Natural Numbers have No Proper Zero Divisors", "expr": "m * n = 0", "source": "formula"}
+{"split": "train", "id": [11485, 0], "title": "Orthogonal Trajectories/Concentric Circles", "expr": "quad x + y = c", "source": "formula"}
+{"split": "train", "id": [11491, 0], "title": "Orthogonal Trajectories/Parabolas Tangent to X Axis", "expr": "x + 2 y = c", "source": "formula"}
+{"split": "train", "id": [11532, 0], "title": "Parabolas Inscribed in Shared Tangent Lines", "expr": "map f x = A x + B x + C", "source": "formula"}
+{"split": "train", "id": [11536, 0], "title": "Focus of Ellipse from Major and Minor Axis", "expr": "a = b + c", "source": "formula"}
+{"split": "train", "id": [11556, 0], "title": "First Order ODE/y' = sin^2 (x - y + 1)", "expr": "= x + C", "source": "text"}
+{"split": "train", "id": [11565, 0], "title": "First Order ODE/(y - x^3) dx + (x + y^3) dy = 0", "expr": "x + y = C", "source": "formula"}
+{"split": "train", "id": [11582, 0], "title": "Integrating Factor for First Order ODE/Function of Sum of Variables", "expr": "z = x + y", "source": "text"}
+{"split": "train", "id": [11593, 0], "title": "Curved Mirror producing Parallel Rays is Paraboloid", "expr": "2 = 2 c x + c", "source": "text"}
+{"split": "train", "id": [11593, 0], "title": "Curved Mirror producing Parallel Rays is Paraboloid", "expr": "y = 2 c x + c", "source": "formula"}
+{"split": "train", "id": [11613, 0], "title": "Linear First Order ODE/y' + (y over x) = 3 x", "expr": "x y = x + C", "source": "formula"}
+{"split": "train", "id": [11615, 0], "title": "Linear First Order ODE/y' + y = 1 over (1 + exp 2 x)", "expr": "+ y =", "source": "text"}
+{"split": "train", "id": [11621, 0], "title": "Bernoulli's Equation/x y' + y = x^4 y^3", "expr": "+ y = x", "source": "text"}
+{"split": "train", "id": [11621, 0], "title": "Bernoulli's Equation/x y' + y = x^4 y^3", "expr": "+ y = x y", "source": "formula"}
+{"split": "train", "id": [11626, 0], "title": "Orthogonal Trajectories/x + C exp -x", "expr": "quad y = x + C e", "source": "text"}
+{"split": "train", "id": [11648, 0], "title": "Current in Electric Circuit/L, R in Series", "expr": "+ R I = E", "source": "text"}
+{"split": "train", "id": [11662, 0], "title": "Bernoulli's Equation/y^2 dx = (x^3 - x y) dy", "expr": "3 y = 2 x + C x y", "source": "formula"}
+{"split": "train", "id": [11669, 0], "title": "Second Order ODE/y'' + 2 x (y')^2 = 0", "expr": "= y + C", "source": "text"}
+{"split": "train", "id": [11675, 0], "title": "Linear First Order ODE/y' - (y over x) = 3 x", "expr": "dfrac y x = 3 x + C", "source": "text"}
+{"split": "train", "id": [11675, 0], "title": "Linear First Order ODE/y' - (y over x) = 3 x", "expr": "y = 3 x + C x", "source": "formula"}
+{"split": "train", "id": [11679, 0], "title": "First Order ODE/y dy = k dx", "expr": "2 = 2 k x + C", "source": "text"}
+{"split": "train", "id": [11679, 0], "title": "First Order ODE/y dy = k dx", "expr": "y = 2 k x + C", "source": "formula"}
+{"split": "train", "id": [11680, 0], "title": "First Order ODE/x dy = (y + y^3) dx", "expr": "= y + y", "source": "text"}
+{"split": "train", "id": [11681, 0], "title": "First Order ODE/y dy = k x dx", "expr": "y = k x + C", "source": "formula"}
+{"split": "train", "id": [11685, 0], "title": "Linear First Order ODE/y' - (y over x) = k x", "expr": "dfrac y x = k x + C", "source": "text"}
+{"split": "train", "id": [11685, 0], "title": "Linear First Order ODE/y' - (y over x) = k x", "expr": "y = k x + C x", "source": "formula"}
+{"split": "train", "id": [11692, 0], "title": "Linear First Order ODE/(x^2 + y) dx = x dy", "expr": "y = x + C x", "source": "formula"}
+{"split": "train", "id": [11705, 0], "title": "First Order ODE/y' ln (x - y) = 1 + ln (x - y)", "expr": "d x = 1 +", "source": "text"}
+{"split": "train", "id": [11706, 0], "title": "Linear First Order ODE/y' + 2 x y = exp -x^2", "expr": "+ 2 x y =", "source": "text"}
+{"split": "train", "id": [11710, 0], "title": "First Order ODE/(1 + x^2) y' + x y = 0", "expr": "+ x y = 0", "source": "text"}
+{"split": "train", "id": [11721, 0], "title": "Linear First Order ODE/y' = x + y", "expr": "= x + y", "source": "text"}
+{"split": "train", "id": [11742, 0], "title": "Linear Second Order ODE/x^2 y'' - 2 x y' + 2 y = 0/y(1) = 3, y'(1) = 5", "expr": "+ 2 y = 0", "source": "text"}
+{"split": "train", "id": [11742, 0], "title": "Linear Second Order ODE/x^2 y'' - 2 x y' + 2 y = 0/y(1) = 3, y'(1) = 5", "expr": "y = x + 2 x", "source": "text"}
+{"split": "train", "id": [11758, 0], "title": "Linear Second Order ODE/(x - 1) y'' - y' + y = 0", "expr": "+ y = 0", "source": "text"}
+{"split": "train", "id": [11763, 0], "title": "Exponential Function is Solution of Constant Coefficient Homogeneous LSOODE iff Index is Root of Auxiliary Equation", "expr": "+ q y = 0", "source": "text"}
+{"split": "train", "id": [11763, 0], "title": "Exponential Function is Solution of Constant Coefficient Homogeneous LSOODE iff Index is Root of Auxiliary Equation", "expr": "2 + p m + q = 0", "source": "text"}
+{"split": "train", "id": [11763, 0], "title": "Exponential Function is Solution of Constant Coefficient Homogeneous LSOODE iff Index is Root of Auxiliary Equation", "expr": "m + p m + q = 0", "source": "formula"}
+{"split": "train", "id": [11767, 0], "title": "Solution of Constant Coefficient Homogeneous LSOODE/Complex Roots of Auxiliary Equation", "expr": "1 = a + i b", "source": "text"}
+{"split": "train", "id": [11772, 0], "title": "Linear Second Order ODE/2 y'' - 4 y' + 8 y = 0", "expr": "4 y + 8 y = 0", "source": "text"}
+{"split": "train", "id": [11775, 0], "title": "Linear Second Order ODE/y'' - 9 y' + 20 y = 0", "expr": "+ 20 y = 0", "source": "text"}
+{"split": "train", "id": [11788, 0], "title": "Linear Second Order ODE/y'' + 4 y = 3 sine x", "expr": "+ 4 y = 3", "source": "text"}
+{"split": "train", "id": [11793, 0], "title": "Linear Second Order ODE/y'' + 10 y' + 25 y = 0", "expr": "+ 25 y = 0", "source": "text"}
+{"split": "train", "id": [11794, 0], "title": "Linear Second Order ODE/y'' + 10 y' + 25 y = 14 exp -5 x", "expr": "+ 25 y = 14 e", "source": "text"}
+{"split": "train", "id": [11795, 0], "title": "Linear Second Order ODE/y'' - 2 y' + 5 y = 0", "expr": "+ 5 y = 0", "source": "text"}
+{"split": "train", "id": [11800, 0], "title": "Linear Second Order ODE/y'' + 2 y' + 10 y = 0", "expr": "+ 10 y = 0", "source": "text"}
+{"split": "train", "id": [11801, 0], "title": "Linear Second Order ODE/y'' + 4 y' + 4 y = 0", "expr": "+ 4 y = 0", "source": "text"}
+{"split": "train", "id": [11825, 0], "title": "Linear Second Order ODE/y'' + k^2 y = sine b x", "expr": "+ k y =", "source": "formula"}
+{"split": "train", "id": [11827, 0], "title": "Linear Second Order ODE/y'' + 4 y = 4 cosine 2 x + 6 cosine x + 8 x^2 - 4 x", "expr": "+ 4 y = 4", "source": "text"}
+{"split": "train", "id": [11829, 0], "title": "Linear Second Order ODE/y'' + 4 y = 6 cosine x", "expr": "+ 4 y = 6", "source": "text"}
+{"split": "train", "id": [11842, 0], "title": "Linear Second Order ODE/y'' + 4 y = tangent 2 x", "expr": "+ 4 y =", "source": "text"}
+{"split": "train", "id": [11843, 0], "title": "Linear Second Order ODE/y'' + 2 y' + y = exp -x log x", "expr": "+ y = e", "source": "text"}
+{"split": "train", "id": [11847, 0], "title": "Linear Second Order ODE/y'' + 2 y' + 5 y = exp -x secant 2 x", "expr": "+ 5 y = e", "source": "text"}
+{"split": "train", "id": [11850, 0], "title": "Linear Second Order ODE/(x^2 - 1) y'' - 2 x y' + 2 y = (x^2 - 1)^2", "expr": "+ 2 y =", "source": "text"}
+{"split": "train", "id": [11872, 0], "title": "Canonical Form of Underdamped Oscillatory System", "expr": "+ a x = 0", "source": "formula"}
+{"split": "train", "id": [11878, 0], "title": "Linear Second Order ODE/y'' + 2 b y' + a^2 y = 0/b less than a", "expr": "+ a y = 0", "source": "formula"}
+{"split": "train", "id": [11879, 0], "title": "Linear Second Order ODE/y'' + 2 b y' + a^2 y = K cosine omega x/b less than a", "expr": "+ a y = K", "source": "formula"}
+{"split": "train", "id": [11882, 0], "title": "Condition for Resonance in Forced Vibration of Underdamped System", "expr": "+ a x = K", "source": "formula"}
+{"split": "train", "id": [11892, 0], "title": "Linear Second Order ODE/y'' + y = K", "expr": "+ y = K", "source": "text"}
+{"split": "train", "id": [12094, 0], "title": "Power Series Expansion for Tangent Function/Sequence", "expr": "tan x = x +", "source": "text"}
+{"split": "train", "id": [12128, 0], "title": "Equation of Astroid/Cartesian Form", "expr": "x + y = a", "source": "formula"}
+{"split": "train", "id": [12145, 0], "title": "Parametric Equations for Evolute/Formulation 1", "expr": "nY = y +", "source": "text"}
+{"split": "train", "id": [12261, 0], "title": "Continued Fraction Expansion of Golden Mean", "expr": "phi = 1 +", "source": "text"}
+{"split": "train", "id": [12418, 0], "title": "Repunit Integer as Product of Base - 1 by Increasing Digit Integer", "expr": "j + n + 1 =", "source": "text"}
+{"split": "train", "id": [12497, 0], "title": "Ceiling of Number plus Integer", "expr": "rceil + n =", "source": "text"}
+{"split": "train", "id": [12751, 0], "title": "Ceiling of Half of n+m plus Ceiling of Half of n-m+1", "expr": "rceil = n + 1", "source": "text"}
+{"split": "train", "id": [12813, 0], "title": "Power of Product in Abelian Group/Additive Notation", "expr": "right) = k x + k y", "source": "text"}
+{"split": "train", "id": [12847, 0], "title": "Modulo Multiplication on Reduced Residue System is Cancellable", "expr": "m c = b *", "source": "formula"}
+{"split": "train", "id": [12847, 0], "title": "Modulo Multiplication on Reduced Residue System is Cancellable", "expr": "m a = c *", "source": "formula"}
+{"split": "train", "id": [12914, 0], "title": "Remainder is Primitive Recursive", "expr": "n = m q + r", "source": "text"}
+{"split": "train", "id": [12964, 0], "title": "Probability of Two Random Integers having no Common Divisor", "expr": "= 0 *p 60792 71018 54026 6", "source": "formula"}
+{"split": "train", "id": [12968, 0], "title": "Probability of Three Random Integers having no Common Divisor", "expr": "= 0 *p 83190 73725 80707", "source": "formula"}
+{"split": "train", "id": [12969, 0], "title": "Densest Packing of Identical Circles", "expr": "= 0 *p 90689 96821", "source": "formula"}
+{"split": "train", "id": [13049, 0], "title": "Sine of X over X as Infinite Product", "expr": "frac z 8 *s =", "source": "formula"}
+{"split": "train", "id": [13109, 0], "title": "Pi as Sum of Odd Reciprocals Alternating in Sign in Pairs", "expr": "4 = 1 +", "source": "text"}
+{"split": "train", "id": [13111, 0], "title": "Sum of Reciprocals of Squares of Odd Integers", "expr": "r = 1 +", "source": "text"}
+{"split": "train", "id": [13133, 0], "title": "Prime equals Plus or Minus One modulo 6", "expr": "p = 6 n + 1", "source": "text"}
+{"split": "train", "id": [13187, 0], "title": "Perfect Number is Sum of Successive Odd Cubes except 6", "expr": "= 1 + 3 + *s +", "source": "formula"}
+{"split": "train", "id": [13189, 0], "title": "Sum of Sequence of Odd Cubes", "expr": "= 1 + 3 + 5 +", "source": "formula"}
+{"split": "train", "id": [13198, 0], "title": "Digital Root of 3 Consecutive Numbers ending in Multiple of 3", "expr": "m = n +", "source": "text"}
+{"split": "train", "id": [13233, 0], "title": "Smallest Prime Number whose Period is of Maximum Length", "expr": "dfrac 1 7 = 0 *p", "source": "formula"}
+{"split": "train", "id": [13236, 0], "title": "Cyclotomic Polynomial of Prime Index", "expr": "x = x + x + *s + x + 1", "source": "formula"}
+{"split": "train", "id": [13265, 0], "title": "Cube which is One Less than a Square", "expr": "3 + 1 = 3", "source": "text"}
+{"split": "train", "id": [13265, 0], "title": "Cube which is One Less than a Square", "expr": "2 + 1 = 3", "source": "formula"}
+{"split": "train", "id": [13306, 0], "title": "Inverse of Subset of Relation is Subset of Inverse", "expr": "1 = S * T", "source": "formula"}
+{"split": "train", "id": [13380, 0], "title": "123456789 x 8 + 9 = 987654321", "expr": "+ n =", "source": "text"}
+{"split": "train", "id": [13380, 0], "title": "123456789 x 8 + 9 = 987654321", "expr": "n j b + n =", "source": "formula"}
+{"split": "train", "id": [13381, 0], "title": "123456789 x 9 + 10 = 1111111111", "expr": "+ n + 1 =", "source": "text"}
+{"split": "train", "id": [13381, 0], "title": "123456789 x 9 + 10 = 1111111111", "expr": "n j b + n + 1 =", "source": "formula"}
+{"split": "train", "id": [13392, 0], "title": "10 is Only Triangular Number that is Sum of Consecutive Odd Squares", "expr": "10 = 1 + 3", "source": "formula"}
+{"split": "train", "id": [13600, 0], "title": "Sum of Adjacent Sequences of Triangular Numbers", "expr": "mathop = n + n", "source": "formula"}
+{"split": "train", "id": [13600, 0], "title": "Sum of Adjacent Sequences of Triangular Numbers", "expr": "mathop = n + 2 n + 1", "source": "formula"}
+{"split": "train", "id": [13648, 0], "title": "Period of Reciprocal of 19 is of Maximal Length", "expr": "= 0 *p", "source": "formula"}
+{"split": "train", "id": [13685, 0], "title": "Sums of Consecutive Sequences of Squares that equal Squares", "expr": "1 + 2 + 3 + *s + 24 = 70", "source": "formula"}
+{"split": "train", "id": [13685, 0], "title": "Sums of Consecutive Sequences of Squares that equal Squares", "expr": "18 + 19 + *s + 28 = 77", "source": "formula"}
+{"split": "train", "id": [13685, 0], "title": "Sums of Consecutive Sequences of Squares that equal Squares", "expr": "25 + 26 + *s + 624 = 9010", "source": "formula"}
+{"split": "train", "id": [13751, 0], "title": "Perfect Number which is Sum of Equal Powers of Two Numbers", "expr": "28 = 1 + 3", "source": "formula"}
+{"split": "train", "id": [13754, 0], "title": "Congruence Modulo 3 of Power of 2", "expr": "n = 3 q +", "source": "text"}
+{"split": "train", "id": [13773, 0], "title": "Necessary and Sufficient Condition for Quadratic Functional to be Positive Definite/Lemma 1", "expr": "+ Q h = 0", "source": "text"}
+{"split": "train", "id": [13785, 0], "title": "Necessary and Sufficient Condition for Quadratic Functional to be Positive Definite/Lemma 2", "expr": "+ t Q h = 0", "source": "text"}
+{"split": "train", "id": [13827, 0], "title": "Prime Factors of 2^64 - 1", "expr": "1 = 3 * 5 * 17 * 257 * 641 * 65 537 * 6 700 417", "source": "formula"}
+{"split": "train", "id": [14131, 0], "title": "Smallest Number not Expressible as Sum of Fewer than 19 Fourth Powers", "expr": "79 = 15 * 1 + 4 * 2", "source": "formula"}
+{"split": "train", "id": [14149, 0], "title": "Fermat Pseudoprime/Base 3/Examples/91", "expr": "91 = 7 * 13", "source": "formula"}
+{"split": "train", "id": [14214, 0], "title": "Square Number which is Sum of Consecutive Powers", "expr": "121 = 3 + 3 + 3 + 3 + 3", "source": "formula"}
+{"split": "train", "id": [14220, 0], "title": "Factor of Mersenne Number Mp is of form 2kp + 1", "expr": "q = 2 k p + 1", "source": "text"}
+{"split": "train", "id": [14246, 0], "title": "159 is not Expressible as Sum of Fewer than 19 Fourth Powers", "expr": "159 = 14 * 1 + 4 * 2 + 3", "source": "formula"}
+{"split": "train", "id": [14262, 0], "title": "Cube of 180 is Sum of Sequence of Consecutive Cubes", "expr": "180 = 6 + 7 + *s + 67 + 68 + 69", "source": "formula"}
+{"split": "train", "id": [14276, 0], "title": "Integers whose Number of Representations as Sum of Two Primes is Maximum", "expr": "210 = 2 * 3 * 5 * 7", "source": "formula"}
+{"split": "train", "id": [14292, 0], "title": "Amicable Pair with Smallest Common Prime Factor 5", "expr": "1 = 5 * 7 * 11 * 13 * 17 * 19 * 23 * 37 * 181 * 101 * 8693 * 19 479 382 229", "source": "formula"}
+{"split": "train", "id": [14292, 0], "title": "Amicable Pair with Smallest Common Prime Factor 5", "expr": "2 = 5 * 7 * 11 * 13 * 17 * 19 * 23 * 37 * 181 * 365 147 * 47 307 071 129", "source": "formula"}
+{"split": "train", "id": [14298, 0], "title": "Sum of Two Squares not Congruent to 3 modulo 4", "expr": "n = a + b", "source": "formula"}
+{"split": "train", "id": [14301, 0], "title": "Solution of Ljunggren Equation", "expr": "2 + 1 = 2 y", "source": "text"}
+{"split": "train", "id": [14301, 0], "title": "Solution of Ljunggren Equation", "expr": "x + 1 = 2 y", "source": "formula"}
+{"split": "train", "id": [14316, 0], "title": "Pépin's Test", "expr": "n = 2 + 1", "source": "formula"}
+{"split": "train", "id": [14340, 0], "title": "319 is not Expressible as Sum of Fewer than 19 Fourth Powers", "expr": "319 = 15 * 1 + 3 * 2 + 4", "source": "formula"}
+{"split": "train", "id": [14340, 0], "title": "319 is not Expressible as Sum of Fewer than 19 Fourth Powers", "expr": "319 = 12 * 1 + 4 * 2 + 3 * 3", "source": "formula"}
+{"split": "train", "id": [14350, 0], "title": "Sturm-Liouville Problem/Unit Weight Function", "expr": "+ Q y =", "source": "text"}
+{"split": "train", "id": [14356, 0], "title": "399 is not Expressible as Sum of Fewer than 19 Fourth Powers", "expr": "399 = 14 * 1 + 3 * 2 + 3 + 4", "source": "formula"}
+{"split": "train", "id": [14356, 0], "title": "399 is not Expressible as Sum of Fewer than 19 Fourth Powers", "expr": "399 = 11 * 1 + 4 * 2 + 4 * 3", "source": "formula"}
+{"split": "train", "id": [14359, 0], "title": "40 times Heptagonal Numbers plus 9 gives Squares of Numbers ending in 7", "expr": "n = 40 * H", "source": "formula"}
+{"split": "train", "id": [14380, 0], "title": "Semidirect Product of Groups is Group", "expr": "phi H = (N* H", "source": "formula"}
+{"split": "train", "id": [14390, 0], "title": "Smallest Square which is Sum of 3 Fourth Powers", "expr": "481 = 12 + 15 + 20", "source": "formula"}
+{"split": "train", "id": [14461, 0], "title": "239 is not Expressible as Sum of Fewer than 19 Fourth Powers", "expr": "239 = 13 * 1 + 4 * 2 + 2 * 3", "source": "formula"}
+{"split": "train", "id": [14462, 0], "title": "479 is not Expressible as Sum of Fewer than 19 Fourth Powers", "expr": "479 = 13 * 1 + 3 * 2 + 2 * 3 + 4", "source": "formula"}
+{"split": "train", "id": [14462, 0], "title": "479 is not Expressible as Sum of Fewer than 19 Fourth Powers", "expr": "479 = 10 * 1 + 4 * 2 + 5 * 3", "source": "formula"}
+{"split": "train", "id": [14463, 0], "title": "559 is not Expressible as Sum of Fewer than 19 Fourth Powers", "expr": "559 = 15 * 1 + 2 * 2 + 2 * 4", "source": "formula"}
+{"split": "train", "id": [14463, 0], "title": "559 is not Expressible as Sum of Fewer than 19 Fourth Powers", "expr": "559 = 9 * 1 + 4 * 2 + 6 * 3", "source": "formula"}
+{"split": "train", "id": [14480, 0], "title": "Largest Number not Expressible as Sum of Multiples of 23 and 28", "expr": "n = 23 x + 28 y", "source": "text"}
+{"split": "train", "id": [14494, 0], "title": "Euler Phi Function of 666 equals Product of Digits", "expr": "= 6 * 6 * 6", "source": "formula"}
+{"split": "train", "id": [14515, 0], "title": "720 is Product of Consecutive Numbers in Two Ways", "expr": "720 = 6 * 5 * 4 * 3 * 2", "source": "formula"}
+{"split": "train", "id": [14543, 0], "title": "Divisibility Test for 7, 11 and 13", "expr": "616 = 2 * 7 * 11", "source": "formula"}
+{"split": "train", "id": [14611, 0], "title": "Dudeney's Property of 2592", "expr": "2592 = 2 * 9", "source": "formula"}
+{"split": "train", "id": [14650, 0], "title": "5040 is Product of Consecutive Numbers in Two Ways", "expr": "5040 = 7 * 6 * 5 * 4 * 3 * 2", "source": "formula"}
+{"split": "train", "id": [14799, 0], "title": "Numbers n whose Euler Phi value Divides n + 1", "expr": "phi n = n + 1", "source": "text"}
+{"split": "train", "id": [14807, 0], "title": "Indexed Summation over Translated Interval", "expr": "mathop = a + c", "source": "text"}
+{"split": "train", "id": [14808, 0], "title": "Indexed Summation over Adjacent Intervals", "expr": "mathop = b+1", "source": "text"}
+{"split": "train", "id": [14809, 0], "title": "Indexed Summation over Interval of Length Two", "expr": "f(i) = f(a) + f(a+1)", "source": "text"}
+{"split": "train", "id": [14812, 0], "title": "Translation of Integer Interval is Bijection", "expr": "map T k = k + c", "source": "text"}
+{"split": "train", "id": [14813, 0], "title": "Indexed Summation without First Term", "expr": "b f(i) = f(a) +", "source": "text"}
+{"split": "train", "id": [14813, 0], "title": "Indexed Summation without First Term", "expr": "mathop = a+1", "source": "text"}
+{"split": "train", "id": [14818, 0], "title": "Indexed Summation of Sum of Mappings", "expr": "h = f + g", "source": "text"}
+{"split": "train", "id": [14949, 0], "title": "Dirichlet Series of Inverse of Arithmetic Function", "expr": "F(s) * G(s) = 1", "source": "formula"}
+{"split": "train", "id": [15003, 0], "title": "Prime Decomposition of 2^58+1", "expr": "+ 1 = 5", "source": "text"}
+{"split": "train", "id": [15003, 0], "title": "Prime Decomposition of 2^58+1", "expr": "2 + 1 = 5 * 107 367 629 * 536 903 681", "source": "formula"}
+{"split": "train", "id": [15064, 0], "title": "Zeroth Hyperoperation is Successor Function", "expr": "right) = y + 1", "source": "text"}
+{"split": "train", "id": [15065, 0], "title": "First Hyperoperation is Addition Operation", "expr": "right) = x + y", "source": "text"}
+{"split": "train", "id": [15066, 0], "title": "Second Hyperoperation is Multiplication Operation", "expr": "right) = x * y", "source": "formula"}
+{"split": "train", "id": [15408, 0], "title": "Half-Range Fourier Cosine Series/Cosine of Non-Integer Multiple of x over 0 to Pi", "expr": "lambda = 4 *p 6", "source": "formula"}
+{"split": "train", "id": [15536, 0], "title": "Sum of Infinite Series of Product of Power and Cosine", "expr": "r = 1 + r", "source": "text"}
+{"split": "train", "id": [15580, 0], "title": "Power Series Expansion for Exponential of Tangent of x", "expr": "= 1 + x +", "source": "text"}
+{"split": "train", "id": [15580, 0], "title": "Power Series Expansion for Exponential of Tangent of x", "expr": "e = 1 + x +", "source": "formula"}
+{"split": "train", "id": [15589, 0], "title": "Power Series Expansion for Exponential of x by Cosine of x", "expr": "r = 1 + x", "source": "text"}
+{"split": "train", "id": [15596, 0], "title": "Nth Derivative of Natural Logarithm by Reciprocal", "expr": "dfrac 1 r = 1 +", "source": "text"}
+{"split": "train", "id": [15648, 0], "title": "Moment Generating Function of Beta Distribution", "expr": "right) = 1 +", "source": "text"}
+{"split": "train", "id": [15655, 0], "title": "Bound on Complex Values of Gamma Function", "expr": "z = s + i t", "source": "text"}
+{"split": "train", "id": [15706, 0], "title": "Power to Real Number by Decimal Expansion is Uniquely Defined", "expr": "r = n +", "source": "text"}
+{"split": "train", "id": [15706, 0], "title": "Power to Real Number by Decimal Expansion is Uniquely Defined", "expr": "= n +", "source": "text"}
+{"split": "train", "id": [15706, 0], "title": "Power to Real Number by Decimal Expansion is Uniquely Defined", "expr": "r = n *p d", "source": "formula"}
+{"split": "train", "id": [15707, 0], "title": "Change of Base of Logarithm/Base 2 to Base 10", "expr": "right) = 0 *p 30102 99956 63981 19521 37389", "source": "formula"}
+{"split": "train", "id": [15713, 0], "title": "Change of Base of Logarithm/Base 10 to Base e/Form 1", "expr": "= 2 *p 30258 50929 94", "source": "formula"}
+{"split": "train", "id": [15715, 0], "title": "Change of Base of Logarithm/Base e to Base 10/Form 1", "expr": "= 0 *p 43429 44819 03", "source": "formula"}
+{"split": "train", "id": [15771, 0], "title": "Modulo Operation/Examples/0.11 mod -0.1", "expr": "0 *p 1 =", "source": "formula"}
+{"split": "train", "id": [15791, 0], "title": "Recursive Form of Generalized Termial", "expr": "= x +", "source": "text"}
+{"split": "train", "id": [15833, 0], "title": "Binomial Theorem/Abel's Generalisation/x+y = 0", "expr": "x + y = 0", "source": "text"}
+{"split": "train", "id": [15983, 0], "title": "Fibonacci Number with Prime Index 2n+1 is Congruent to 5^n Modulo p", "expr": "p = 2 n + 1", "source": "text"}
+{"split": "train", "id": [16084, 0], "title": "Real Number Multiplied by Complex Number", "expr": "times a = a c + i a d", "source": "text"}
+{"split": "train", "id": [16084, 0], "title": "Real Number Multiplied by Complex Number", "expr": "right) * a = a c + i a d", "source": "formula"}
+{"split": "train", "id": [16179, 0], "title": "Roots of Complex Number/Examples/z^8 + 1 = 0", "expr": "8 + 1 = 0", "source": "text"}
+{"split": "train", "id": [16179, 0], "title": "Roots of Complex Number/Examples/z^8 + 1 = 0", "expr": "z + 1 = 0", "source": "formula"}
+{"split": "train", "id": [16181, 0], "title": "Factorisation of z^n+1", "expr": "n + 1 =", "source": "text"}
+{"split": "train", "id": [16183, 0], "title": "Factorisation of z^(2n)+1 in Real Domain", "expr": "+ 1 =", "source": "text"}
+{"split": "train", "id": [16183, 0], "title": "Factorisation of z^(2n)+1 in Real Domain", "expr": "z + 1 =", "source": "formula"}
+{"split": "train", "id": [16185, 0], "title": "Roots of Complex Number/Examples/z^5 + 1 = 0", "expr": "5 + 1 = 0", "source": "text"}
+{"split": "train", "id": [16591, 0], "title": "Inverse of Linear Function on Real Numbers", "expr": "map f x = a x + b", "source": "text"}
+{"split": "train", "id": [16630, 0], "title": "Group/Examples/Linear Functions", "expr": "x = a x + b", "source": "text"}
+{"split": "train", "id": [16828, 0], "title": "Subset of Linear Code with Even Weight Codewords", "expr": "+ = C", "source": "text"}
+{"split": "train", "id": [16965, 0], "title": "Equation of Straight Line in Plane/Slope-Intercept Form", "expr": "y = m x + c", "source": "text"}
+{"split": "train", "id": [17043, 0], "title": "Factors of Sum of Two Even Powers", "expr": "x + y =", "source": "formula"}
+{"split": "train", "id": [17194, 0], "title": "Moment Generating Function of Bernoulli Distribution", "expr": "t = q + p e", "source": "text"}
+{"split": "train", "id": [17254, 0], "title": "Value of Field Norm on 5th Cyclotomic Ring is Integer", "expr": "alpha = a + i b", "source": "text"}
+{"split": "train", "id": [17329, 0], "title": "Bézout's Lemma/Euclidean Domain", "expr": "a * x + b * y =", "source": "formula"}
+{"split": "train", "id": [17329, 0], "title": "Bézout's Lemma/Euclidean Domain", "expr": "forall c = a * x + b * y", "source": "formula"}
+{"split": "train", "id": [17541, 0], "title": "Convergence of P-Series/Lemma", "expr": "p = x + i y", "source": "text"}
+{"split": "train", "id": [17551, 0], "title": "Sign of Quadratic Function Between Roots", "expr": "map Q x = a x + b x + c", "source": "formula"}
+{"split": "train", "id": [17554, 0], "title": "Roots of Quadratic with Rational Coefficients of form r plus s Root 2", "expr": "2 x + b x + c = 0", "source": "text"}
+{"split": "train", "id": [17554, 0], "title": "Roots of Quadratic with Rational Coefficients of form r plus s Root 2", "expr": "alpha = r + s", "source": "text"}
+{"split": "train", "id": [17554, 0], "title": "Roots of Quadratic with Rational Coefficients of form r plus s Root 2", "expr": "quad a x + b x + c = 0", "source": "formula"}
+{"split": "train", "id": [17719, 0], "title": "Square of Odd Multiple of 3 is Difference between Triangular Numbers", "expr": "m = 2 n + 1", "source": "text"}
+{"split": "train", "id": [17726, 0], "title": "Odd Integer Modulo 4", "expr": "n = 4 k + 1", "source": "text"}
+{"split": "train", "id": [17726, 0], "title": "Odd Integer Modulo 4", "expr": "n = 4 k + 3", "source": "text"}
+{"split": "train", "id": [17756, 0], "title": "Solutions to Diophantine Equation 16x^2+32x+20 = y^2+y", "expr": "2 + 32x + 20 = y", "source": "text"}
+{"split": "train", "id": [17756, 0], "title": "Solutions to Diophantine Equation 16x^2+32x+20 = y^2+y", "expr": "16x + 32x + 20 = y + y", "source": "formula"}
+{"split": "train", "id": [18063, 0], "title": "Pointwise Operation is Composite of Operation with Mapping to Cartesian Product", "expr": "oplus g = *", "source": "text"}
+{"split": "train", "id": [18072, 0], "title": "Multiplicative Regular Representations of Units of Topological Ring are Homeomorphisms/Lemma 1", "expr": "y = y * I", "source": "text"}
+{"split": "train", "id": [18075, 0], "title": "Open Balls of P-adic Number", "expr": "a = a + p", "source": "text"}
+{"split": "train", "id": [18098, 0], "title": "Characterization of Closed Ball in P-adic Numbers", "expr": "p = y + p", "source": "text"}
+{"split": "train", "id": [18112, 0], "title": "Common Logarithm of Number in Scientific Notation", "expr": "n = a * 10", "source": "formula"}
+{"split": "train", "id": [18282, 0], "title": "Number of Integer Partitions into Sum of Consecutive Primes", "expr": "41 = 11 + 13 + 17", "source": "text"}
+{"split": "train", "id": [18335, 0], "title": "Asymptote to Folium of Descartes", "expr": "x + y + a = 0", "source": "text"}
+{"split": "train", "id": [18349, 0], "title": "Equation of Limaçon of Pascal/Polar Form", "expr": "r = b + a", "source": "text"}
+{"split": "train", "id": [18390, 0], "title": "Solution to Linear First Order ODE with Constant Coefficients", "expr": "+ a y =", "source": "text"}
+{"split": "train", "id": [18398, 0], "title": "Derivation of Auxiliary Equation to Constant Coefficient LSOODE", "expr": "+ q y =", "source": "text"}
+{"split": "train", "id": [18398, 0], "title": "Derivation of Auxiliary Equation to Constant Coefficient LSOODE", "expr": "quad m + p m + q = 0", "source": "formula"}
+{"split": "train", "id": [18433, 0], "title": "Linear Second Order ODE/y'' - 5 y' + 6 y = 0", "expr": "+ 6 y = 0", "source": "text"}
+{"split": "train", "id": [18434, 0], "title": "Linear Second Order ODE/y'' - 5 y' + 6 y = cos x + sin x", "expr": "+ 6 y =", "source": "text"}
+{"split": "train", "id": [18437, 0], "title": "Linear Second Order ODE/y'' + 2 y' + y = x exp -x", "expr": "+ y = x e", "source": "text"}
+{"split": "train", "id": [18477, 0], "title": "Sum of Cuts is Cut", "expr": "r = p + q", "source": "text"}
+{"split": "train", "id": [18489, 0], "title": "Factorisation of z^n+a", "expr": "n + a =", "source": "text"}
+{"split": "train", "id": [18496, 0], "title": "Product of Cut with Zero Cut equals Zero Cut", "expr": "* = 0", "source": "text"}
+{"split": "train", "id": [18547, 0], "title": "Box Topology may not be Coarsest Topology such that Projections are Continuous/Lemma", "expr": "X = X * X * X *", "source": "formula"}
+{"split": "train", "id": [18547, 0], "title": "Box Topology may not be Coarsest Topology such that Projections are Continuous/Lemma", "expr": "U = U * U * U *", "source": "formula"}
+{"split": "train", "id": [18672, 0], "title": "Nonzero natural number is another natural number successor", "expr": "map s n = n + 1", "source": "text"}
+{"split": "train", "id": [18838, 0], "title": "Value of Vacuum Permittivity", "expr": "0 = 8 *p 85418 78128 (13) * 10", "source": "formula"}
+{"split": "train", "id": [18874, 0], "title": "Set of Affine Mappings on Real Line under Composition forms Group", "expr": "map f x = r x + s", "source": "text"}
+{"split": "train", "id": [18882, 0], "title": "Factors of Sums of Powers of 100,000/General Result", "expr": "r = m + 1", "source": "text"}
+{"split": "train", "id": [18888, 0], "title": "Cosets of Positive Reals in Multiplicative Group of Complex Numbers", "expr": "z = x + 0 i", "source": "text"}
+{"split": "train", "id": [18982, 0], "title": "Integer as Sum of Polygonal Numbers/Lemma 3", "expr": "+ b =", "source": "text"}
+{"split": "train", "id": [19011, 0], "title": "Infinite Series of Functions is Uniformly Convergent iff Sequence of Partial Sums is Uniformly Cauchy", "expr": "mathop = m + 1", "source": "text"}
+{"split": "train", "id": [19156, 0], "title": "1 plus Square is not Perfect Power", "expr": "p = y + 1", "source": "formula"}
+{"split": "train", "id": [19380, 0], "title": "Triple with Sum and Product Equal", "expr": "a + b + c = a b c", "source": "text"}
+{"split": "train", "id": [19505, 0], "title": "Product with Field Negative", "expr": "= a *", "source": "formula"}
+{"split": "train", "id": [19599, 0], "title": "Odd Integers under Addition do not form Group", "expr": "x = 2 n + 1", "source": "text"}
+{"split": "train", "id": [19600, 0], "title": "Number of Digits in Number", "expr": "d = 1 +", "source": "text"}
+{"split": "train", "id": [19636, 0], "title": "First Order ODE/y' + 2 x y = 1", "expr": "+ 2 x y = 1", "source": "text"}
+{"split": "train", "id": [19698, 0], "title": "Direct Product Norm is Norm", "expr": "V = X * Y", "source": "formula"}
+{"split": "validation", "id": [13162, 0], "title": "Pythagorean Triangle from Fibonacci Numbers", "expr": "a + b = c", "source": "formula"}
+{"split": "validation", "id": [19685, 0], "title": "Set of Endomorphisms of Non-Abelian Group is not Ring", "expr": "u * v = u", "source": "text"}
+{"split": "validation", "id": [14542, 0], "title": "Sum of Pandigital Triplet of 3-Digit Primes", "expr": "149 + 263 + 587 = 999", "source": "text"}
+{"split": "validation", "id": [11617, 0], "title": "Linear First Order ODE/y' + y = 2 x exp -x + x^2", "expr": "+ y = 2 x e", "source": "text"}
+{"split": "validation", "id": [11617, 0], "title": "Linear First Order ODE/y' + y = 2 x exp -x + x^2", "expr": "+ y = 2 x e + x", "source": "formula"}
+{"split": "validation", "id": [11617, 0], "title": "Linear First Order ODE/y' + y = 2 x exp -x + x^2", "expr": "y = x e + x", "source": "formula"}
+{"split": "validation", "id": [5850, 0], "title": "Pointwise Addition on Rational-Valued Functions is Associative", "expr": "+ h = f +", "source": "text"}
+{"split": "validation", "id": [14546, 0], "title": "Reciprocal of 1089", "expr": "= 0 *p", "source": "formula"}
+{"split": "validation", "id": [7741, 0], "title": "1+1 = 2", "expr": "1 + 1 = 2", "source": "text"}
+{"split": "validation", "id": [11754, 0], "title": "Legendre's Differential Equation/(1 - x^2) y'' - 2 x y' + 2 y = 0", "expr": "+ 2 y = 0", "source": "text"}
+{"split": "validation", "id": [14736, 0], "title": "Carmichael Number with 4 Prime Factors", "expr": "41 041 = 7 * 11 * 13 * 41", "source": "formula"}
+{"split": "validation", "id": [4963, 0], "title": "Scalar Product with Multiple of Unity", "expr": "circ x = n * x", "source": "formula"}
+{"split": "validation", "id": [11821, 0], "title": "Linear Second Order ODE/y'' + y = 2 cosine x", "expr": "+ y = 2", "source": "text"}
+{"split": "validation", "id": [14156, 0], "title": "Reciprocal of 98", "expr": "= 0 *p 0", "source": "formula"}
+{"split": "validation", "id": [8367, 0], "title": "Conjugacy Action on Abelian Group is Trivial", "expr": "g * h = g", "source": "text"}
+{"split": "validation", "id": [10809, 0], "title": "Parity Multiplication is Associative", "expr": "* c = a *", "source": "formula"}
+{"split": "validation", "id": [11707, 0], "title": "First Order ODE/(y^2 - 3 x y - 2 x^2) dx = (x^2 - x y) dy", "expr": "2 y x + x = C", "source": "formula"}
+{"split": "validation", "id": [16267, 0], "title": "Bounds for Modulus of e^z on Circle x^2 + y^2 - 2x - 2y - 2 = 0", "expr": "z = x + i y", "source": "text"}
+{"split": "validation", "id": [11739, 0], "title": "Linear Second Order ODE/y'' + y = 0/y(0) = 2, y'(0) = 3", "expr": "+ y = 0", "source": "text"}
+{"split": "validation", "id": [1670, 0], "title": "Linear Function is Primitive Recursive", "expr": "map f n = a n + b", "source": "text"}
+{"split": "validation", "id": [18502, 0], "title": "Product of Rational Cuts is Rational Cut", "expr": "* =", "source": "text"}
+{"split": "validation", "id": [145, 0], "title": "Cartesian Product is Anticommutative", "expr": "S * T = T * S", "source": "formula"}
+{"split": "validation", "id": [8361, 0], "title": "Orbit of Trivial Group Action is Singleton", "expr": "g * s = s", "source": "text"}
+{"split": "validation", "id": [16618, 0], "title": "Group has Latin Square Property/Additive Notation", "expr": "a + g = b", "source": "text"}
+{"split": "validation", "id": [16618, 0], "title": "Group has Latin Square Property/Additive Notation", "expr": "h + a = b", "source": "text"}
+{"split": "validation", "id": [15556, 0], "title": "Power Series Expansion of Cube Root of 1 + x", "expr": "= 1 +", "source": "text"}
+{"split": "validation", "id": [10808, 0], "title": "Parity Addition is Commutative", "expr": "a + b = b + a", "source": "text"}
+{"split": "validation", "id": [16225, 0], "title": "Existence of Radius of Convergence of Complex Power Series/Absolute Convergence", "expr": "R = +", "source": "text"}
+{"split": "validation", "id": [19711, 0], "title": "Direct Product of Banach Spaces is Banach Space", "expr": "V = X * Y", "source": "formula"}
+{"split": "validation", "id": [11067, 0], "title": "Cosine in terms of Sine", "expr": "r = +", "source": "text"}
+{"split": "validation", "id": [3594, 0], "title": "Divisors obey Distributive Law", "expr": "implies a + c =", "source": "text"}
+{"split": "validation", "id": [3597, 0], "title": "Real Numbers under Addition Modulo 1 form Group", "expr": "circ y = x + y", "source": "text"}
+{"split": "validation", "id": [3004, 0], "title": "Multiplication is Superfunction", "expr": "map f z = z * c", "source": "formula"}
+{"split": "validation", "id": [18432, 0], "title": "Linear Second Order ODE/y'' + y = exp -x cos x", "expr": "+ y = e", "source": "text"}
+{"split": "validation", "id": [14906, 0], "title": "Multiply Perfect Number of Order 6", "expr": "n = 2 * 3 * 5 * 7 * 11 * 13 * 19 * 31", "source": "formula"}
+{"split": "validation", "id": [8359, 0], "title": "Group Action of Symmetric Group Acts Transitively", "expr": "pi * s =", "source": "text"}
+{"split": "validation", "id": [5235, 0], "title": "Abelian Group Induces Commutative B-Algebra", "expr": "a * b = a", "source": "text"}
+{"split": "validation", "id": [5235, 0], "title": "Abelian Group Induces Commutative B-Algebra", "expr": "right) = b *", "source": "text"}
+{"split": "validation", "id": [14691, 0], "title": "Cube of 20 is Sum of Sequence of 4 Consecutive Cubes", "expr": "20 = 11 + 12 + 13 + 14", "source": "formula"}
+{"split": "validation", "id": [11831, 0], "title": "Linear Second Order ODE/y'' + y = cosecant x", "expr": "+ y =", "source": "text"}
+{"split": "validation", "id": [19511, 0], "title": "Cancellation Law for Field Product", "expr": "a * b = a * c", "source": "formula"}
+{"split": "validation", "id": [1891, 1], "title": "Sophie Germain's Identity", "expr": "x + 4 y =", "source": "formula"}
+{"split": "validation", "id": [11886, 0], "title": "Resonance Frequency is less than Natural Frequency", "expr": "+ a x = K", "source": "formula"}
+{"split": "validation", "id": [11886, 0], "title": "Resonance Frequency is less than Natural Frequency", "expr": "+ a x = 0", "source": "formula"}
+{"split": "validation", "id": [11781, 0], "title": "Linear Second Order ODE/2 x^2 y'' + 10 x y' + 8 y = 0", "expr": "+ 8 y = 0", "source": "text"}
+{"split": "test", "id": [13706, 0], "title": "Sums of Partial Sequences of Squares", "expr": "2 = 2 m + 1", "source": "text"}
+{"split": "test", "id": [13706, 0], "title": "Sums of Partial Sequences of Squares", "expr": "= 2 m + 1", "source": "formula"}
+{"split": "test", "id": [11796, 0], "title": "Linear Second Order ODE/y'' - 2 y' + 5 y = 25 x^2 + 12", "expr": "+ 5 y = 25 x", "source": "text"}
+{"split": "test", "id": [11796, 0], "title": "Linear Second Order ODE/y'' - 2 y' + 5 y = 25 x^2 + 12", "expr": "+ 5 y = 25 x + 12", "source": "formula"}
+{"split": "test", "id": [13640, 0], "title": "Smallest Odd Number not of form 2 a squared plus p", "expr": "n = 2 a + p", "source": "formula"}
+{"split": "test", "id": [12440, 0], "title": "Summation of Powers over Product of Differences/Example", "expr": "r = a + b + c", "source": "text"}
+{"split": "test", "id": [12810, 0], "title": "Powers of Group Elements/Sum of Indices/Additive Notation", "expr": "m g + n g =", "source": "text"}
+{"split": "test", "id": [16783, 0], "title": "Odd Integers under Multiplication do not form Group", "expr": "x = 2 n + 1", "source": "text"}
+{"split": "test", "id": [18419, 0], "title": "Linear Second Order ODE/y'' - 2 y' + y = 1 over 1 + e^x", "expr": "+ y =", "source": "text"}
+{"split": "test", "id": [18419, 0], "title": "Linear Second Order ODE/y'' - 2 y' + y = 1 over 1 + e^x", "expr": "y = 1 + e", "source": "text"}
+{"split": "test", "id": [15557, 0], "title": "Power Series Expansion for General Exponential Function", "expr": "r = 1 + x", "source": "text"}
+{"split": "test", "id": [17973, 0], "title": "Successor Mapping on Natural Numbers is not Surjection", "expr": "map f n = n + 1", "source": "text"}
+{"split": "test", "id": [17036, 0], "title": "Sum of Fourth Powers with Product of Squares", "expr": "x + x y + y =", "source": "formula"}
+{"split": "test", "id": [893, 0], "title": "Group Acts on Itself", "expr": "g * h = g", "source": "text"}
+{"split": "test", "id": [14265, 0], "title": "Pandigital Sum whose Components are Multiples", "expr": "2 * 192 = 384", "source": "formula"}
+{"split": "test", "id": [14265, 0], "title": "Pandigital Sum whose Components are Multiples", "expr": "3 * 192 = 576", "source": "formula"}
+{"split": "test", "id": [14265, 0], "title": "Pandigital Sum whose Components are Multiples", "expr": "2 * 219 = 438", "source": "formula"}
+{"split": "test", "id": [14265, 0], "title": "Pandigital Sum whose Components are Multiples", "expr": "3 * 219 = 657", "source": "formula"}
+{"split": "test", "id": [14265, 0], "title": "Pandigital Sum whose Components are Multiples", "expr": "2 * 273 = 546", "source": "formula"}
+{"split": "test", "id": [14265, 0], "title": "Pandigital Sum whose Components are Multiples", "expr": "3 * 273 = 819", "source": "formula"}
+{"split": "test", "id": [14265, 0], "title": "Pandigital Sum whose Components are Multiples", "expr": "2 * 327 = 654", "source": "formula"}
+{"split": "test", "id": [14265, 0], "title": "Pandigital Sum whose Components are Multiples", "expr": "3 * 327 = 981", "source": "formula"}
+{"split": "test", "id": [17034, 0], "title": "Sum of Two Fifth Powers", "expr": "x + y =", "source": "formula"}
+{"split": "test", "id": [8370, 0], "title": "Group Action on Subgroup by Right Regular Representation is not Transitive", "expr": "h * g =", "source": "text"}
+{"split": "test", "id": [16173, 0], "title": "Triple Angle Formulas/Cosine/2 cos 3 theta + 1", "expr": "theta + 1 =", "source": "text"}
+{"split": "test", "id": [11776, 0], "title": "Linear Second Order ODE/2 y'' + 2 y' + 3 y = 0", "expr": "+ 3 y = 0", "source": "text"}
+{"split": "test", "id": [524, 0], "title": "Quotient Group of Ideal is Coset Space", "expr": "x + J =", "source": "text"}
+{"split": "test", "id": [10529, 0], "title": "Positive Multiple of Metric is Metric", "expr": "right) = k * d", "source": "formula"}
+{"split": "test", "id": [11060, 0], "title": "Sine in terms of Tangent", "expr": "r = +", "source": "text"}
+{"split": "test", "id": [17111, 0], "title": "Squares of Diagonals of Parallelogram", "expr": "AC + BD = AB + BC + CD + DA", "source": "formula"}
+{"split": "test", "id": [18885, 0], "title": "Positive Real Axis forms Subgroup of Complex Numbers under Multiplication", "expr": "z = x + 0 i", "source": "text"}
+{"split": "test", "id": [15537, 0], "title": "Sum of Series of Product of Power and Cosine", "expr": "r = 1 + r", "source": "text"}
+{"split": "test", "id": [14938, 0], "title": "Upper Bound for Abscissa of Absolute Convergence of Product of Dirichlet Series", "expr": "h = f * g", "source": "text"}
+{"split": "test", "id": [14040, 0], "title": "Dirichlet Convolution is Commutative", "expr": "f * g = g * f", "source": "text"}
+{"split": "test", "id": [15594, 0], "title": "Power Series Expansion for Logarithm of 1 + x over 1 + x", "expr": "dfrac 1 r = 1 +", "source": "text"}
+{"split": "test", "id": [11780, 0], "title": "Linear Second Order ODE/x^2 y'' + 3 x y' + 10 y = 0", "expr": "+ 10 y = 0", "source": "text"}
+{"split": "test", "id": [8243, 0], "title": "Division Theorem/Positive Divisor/Existence/Proof 1", "expr": "a = q b + r", "source": "text"}
+{"split": "test", "id": [14770, 0], "title": "333,667 is Only Prime whose Reciprocal is of Period 9", "expr": "= 0 *p", "source": "formula"}
+{"split": "test", "id": [16184, 0], "title": "Factorisation of z^(2n+1)+1 in Real Domain", "expr": "+ 1 =", "source": "text"}
+{"split": "test", "id": [16184, 0], "title": "Factorisation of z^(2n+1)+1 in Real Domain", "expr": "z + 1 =", "source": "formula"}
+{"split": "test", "id": [18438, 0], "title": "Linear Second Order ODE/y'' + 2 y' + 5 y = x sin x", "expr": "+ 5 y = x", "source": "text"}
+{"split": "test", "id": [6225, 0], "title": "Recursive Construction of Transitive Closure", "expr": "+ =", "source": "text"}
+{"split": "test", "id": [18868, 0], "title": "Canonical Injection of Real Number Line into Complex Plane", "expr": "map f z = x + 0 y", "source": "text"}
+{"split": "test", "id": [18407, 0], "title": "Linear Second Order ODE/y'' - 3 y' + 2 y = 5 exp 3 x", "expr": "+ 2 y = 5 e", "source": "text"}
+{"split": "test", "id": [17691, 0], "title": "Sum of Powers of 2", "expr": "r = 1 + 2 + 2", "source": "text"}
+{"split": "test", "id": [8365, 0], "title": "Left Regular Representation is Transitive Group Action", "expr": "g * h =", "source": "text"}
+{"split": "test", "id": [14207, 0], "title": "Multiply Perfect Number of Order 8", "expr": "n = 2 * 3 * 5 * 7 * 11 * 13 * 17 * 19 * 23 * 29 * 31", "source": "formula"}
+{"split": "test", "id": [18431, 0], "title": "Linear Second Order ODE/y'' + 4 y' + 5 y = 2 exp -2 x", "expr": "+ 5 y = 2 e", "source": "text"}
+{"split": "test", "id": [9679, 0], "title": "Pumping Lemma for Regular Languages", "expr": "z = u * v * w", "source": "formula"}
+{"split": "test", "id": [11563, 0], "title": "First Order ODE/exp y dx + (x exp y + 2 y) dy = 0", "expr": "y + y = C", "source": "formula"}
+{"split": "test", "id": [11820, 0], "title": "Linear Second Order ODE/y'' - 3 y' + 2 y = 14 sine 2 x - 18 cosine 2 x", "expr": "+ 2 y = 14", "source": "text"}
+{"split": "test", "id": [11629, 0], "title": "Second Order ODE/x y'' - y' = 3 x^2", "expr": "y = x +", "source": "formula"}
+{"split": "test", "id": [140, 0], "title": "Symmetric Difference with Universe", "expr": "mathbb U * S =", "source": "text"}
+{"split": "test", "id": [15769, 0], "title": "Modulo Operation/Examples/1.1 mod 1", "expr": "bmod 1 = 0 *p 1", "source": "formula"}
+{"split": "test", "id": [15581, 0], "title": "Power Series Expansion for Exponential of x by Sine of x", "expr": "r = x + x", "source": "text"}
+{"split": "test", "id": [11637, 0], "title": "Second Order ODE/(x^2 + 2 y') y'' + 2 x y' = 0", "expr": "3 y + x = 3", "source": "formula"}
+{"split": "test", "id": [5851, 0], "title": "Pointwise Multiplication on Integer-Valued Functions is Associative", "expr": "* h = f *", "source": "formula"}
+{"split": "test", "id": [2038, 0], "title": "Factorial Divisible by Binary Root", "expr": "n = 2 + 2 + *s + 2", "source": "formula"}
+{"split": "test", "id": [18303, 0], "title": "Root of Equation e^x (x - 1) = e^-x (x + 1)", "expr": "x = 1 *p 19966 78640 25773 4", "source": "formula"}
+{"split": "test", "id": [4457, 0], "title": "Inequality of Hölder Means", "expr": "2 = *s", "source": "formula"}
+{"split": "test", "id": [16254, 0], "title": "Real Part of Complex Exponential Function", "expr": "z = x + i y", "source": "text"}
+{"split": "test", "id": [17196, 0], "title": "Field of Quotients of Ring of Polynomial Forms on Reals that yields Complex Numbers", "expr": "p = X + 1", "source": "formula"}
+{"split": "test", "id": [15264, 0], "title": "Alexandroff Extension of Rational Number Space is Sequentially Compact", "expr": "* =", "source": "text"}
+{"split": "test", "id": [5579, 0], "title": "Orbit of Subgroup under Coset Action is Coset Space", "expr": "g * H = g", "source": "text"}
+{"split": "test", "id": [7557, 0], "title": "Probability Generating Function of Shifted Random Variable", "expr": "Y = X + m", "source": "text"}
+{"split": "test", "id": [11622, 0], "title": "Bernoulli's Equation/x y^2 y' + y^3 = x cosine x", "expr": "+ y = x", "source": "formula"}
+{"split": "test", "id": [15578, 0], "title": "Power Series Expansion for Exponential of Sine of x", "expr": "= 1 + x +", "source": "text"}
+{"split": "test", "id": [15578, 0], "title": "Power Series Expansion for Exponential of Sine of x", "expr": "e = 1 + x +", "source": "formula"}
+{"split": "test", "id": [16104, 0], "title": "Equation of Line in Complex Plane/Formulation 2", "expr": "l x + m y = 1", "source": "text"}
+{"split": "test", "id": [11548, 0], "title": "First Order ODE/(x^2 - 2 y^2) dx + x y dy = 0", "expr": "y = x + C x", "source": "formula"}
+{"split": "test", "id": [7397, 0], "title": "Norm of Eisenstein Integer", "expr": "alpha = a + b", "source": "text"}
+{"split": "test", "id": [5031, 0], "title": "Idempotent Elements for Integer Multiplication", "expr": "0 * 0 = 0", "source": "formula"}
+{"split": "test", "id": [5031, 0], "title": "Idempotent Elements for Integer Multiplication", "expr": "1 * 1 = 1", "source": "formula"}
+{"split": "test", "id": [5729, 0], "title": "Smallest Positive Integer Combination is Greatest Common Divisor", "expr": "d = a s + b t", "source": "text"}
+{"split": "test", "id": [11771, 0], "title": "Linear Second Order ODE/y'' + 8 y = 0", "expr": "+ 8 y = 0", "source": "text"}

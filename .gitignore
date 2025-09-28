@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Caches 
+.hf_cache/
+.cache/
+cache/
+
+# Lean/Lake build directories
+**/.lake/
+**/build/
